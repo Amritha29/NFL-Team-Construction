@@ -3,7 +3,7 @@ This repository contains the R codebase for the EAS 509 Statistical Learning pro
 
 Instructions to run the RShiny app
 Clone this repository using
-git clone https://github.com/efox2/NFL-Team-Construction
+git clone https://github.com/Amritha29/NFL-Team-Construction
 
 Install all the required R package libraries in your work environment to ensure complete functionality.
 
