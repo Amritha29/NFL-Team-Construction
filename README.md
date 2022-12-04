@@ -17,7 +17,7 @@ If you use code from this repository, please cite the following reference:
 @software{
   title = {NFL RosterGen: An RShiny application for optimizing NFL roster construction using Genetic Algorithms},
   author = {Khodke, Sumedh and Fox, Evan and Katta, Dineshkumar and Subburayan, Amritha and Aravind, Sanjay},
-  url = {https://github.com/efox2/NFL-Team-Construction},
+  url = {[https://github.com/efox2/NFL-Team-Construction](https://github.com/Amritha29/NFL-Team-Construction)},
   version = {1.0},
   year = {2022},
 }
